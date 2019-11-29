@@ -1,0 +1,7 @@
+1		lattice:0->Kris, 1=>Posi
+1000		nat
+500		npasos
+10,10,30	!lx.ly,lz
+0.0015		!dt
+2.5		!rcorte
+1.0		!temp
